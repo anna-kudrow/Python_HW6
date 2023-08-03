@@ -10,4 +10,3 @@ first_el = int (input("Input a first element: "))
 
 for i in range(size_of_array):
     print(first_el + i * diff, end=' ')
-
